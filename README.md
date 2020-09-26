@@ -1,1 +1,1 @@
-# picbed_picgo.github.io
+# picbed_picgo
